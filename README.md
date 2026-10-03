@@ -19,6 +19,8 @@ The workflow for the economic modeling engine considers how agents respond to sh
 ## Conclusion
 
 
+## Acknowledgements 
+We acknowledge financial support from the People of the United States through US Government support to global food security. We also acknowledge support from the Sustainable Farming program of the CGIAR. All errors are our own.
 
 ## References 
 Lusk, J.L. 2016. “Distributional effects of crop insurance subsidies”. Applied Economic Perspectives and Policy 39 (1): 1-15. Doi:  https://doi.org/10.1093/aepp/ppw002.
