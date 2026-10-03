@@ -1,4 +1,4 @@
-# EDM: An Equilibrium Displacement Policy Simulator for Next Gen BCI
+# EDM-BCI: An Equilibrium Displacement Policy Simulator for Next Gen BCI
 
 ## Summary
 EDM-BCI is an equilibrium displacement modeling tool for simulating economic, food security, government fiscal savings,
