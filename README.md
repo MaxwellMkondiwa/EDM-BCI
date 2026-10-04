@@ -14,7 +14,13 @@ The workflow for the economic modeling engine considers how agents respond to sh
 
 ## EDM: Demand and Supply Mathematical Relations
 
-![Demand and Supply](Demand_SupplyFig.png)
+![EDM tool](Excel_Tool.png)
+
+
+## The Excel Tool
+The EDM-BCI excel tool (EDM-BCI.xlsx) contains spreadsheets on instructions, the model (at national and state levels) and the welfare calculations
+
+
 
 ## Conclusion
 
